@@ -1,0 +1,46 @@
+Compere between Website, web app and mobile app
+
+     Website, collection of files and related resources accessible through the World Wide Web and the Internet via a domain name.
+Organized around a "homepage" (or "landing page"), it is one of the foremost vehicles for mass communication and mass media.
+Typical files found at a website are HTML documents with their associated graphic image files (GIF, JPEG, etc.),
+scripted programs (in Perl, PHP, Java, etc.),
+and similar resources. 
+    The site’s files are usually accessed through hypertext or hyperlinks embedded in other files. 
+A website may consist of a single HTML file, or it may comprise hundreds or thousands of related files.
+A website’s usual starting point or opening page, called a home page, usually functions as a table of contents or index, with links to other sections of the site.
+Websites are hosted on one or more Web servers, which transfer files to client computers or other servers that request them using the HTTP protocol.
+Many websites are made with content management systems like WordPress. 
+Although the term site implies a single physical location, the files and resources of a website may actually be spread among several servers in different geographic locations. 
+The particular file desired by a client is specified by a URL that is either typed into a browser or accessed by selecting a hyperlink.
+
+         What Is a Web Application?
+A web application is a program stored on a remote server and delivered to the user via a browser. Similar to a website, but not entirely. 
+A website is content displayed to the user and is not meant for interactions. The purpose of websites is to display static content to the user—for example,
+portfolios, official websites of brands, etc. 
+    Examples of Web Applications 
+Online shopping cart / Email / Word processors / Photo and video editing / File scanning / Spreadsheets/ Presentations
+
+
+          What Is a Mobile Application?
+Mobile applications are specifically designed for mobile use alone. Unlike web applications which can be browsed via any browser on desktop or mobile, 
+mobile applications can only be installed on mobile and only be browsed through them.
+    There are three different types of mobile applications. They are:
+ ***Native: The native application refers to the application which is built to serve one OS alone. Either ios or android. 
+The native applications are developed using the platform’s native APIs. Code cannot be reused for other platforms.
+ ***Hybrid: Hybrid applications refer to the applications that can be run on any platform, ios or android.
+The application also has access to the native APIs, and the code can be reused on any platform.
+ ***Mobile Web: The mobile web applications refer to the web applications browsed via the browser on the mobile.
+Since most web applications are built with responsive design, the mobile web applications appear like mobile applications. 
+Mobile web applications usually don’t have a separate mobile app. It is also used by users who do not want to install a particular mobile application. 
+          Examples of Mobile Applications
+Lifestyle \ Social media / Ecommerce / Utility / Games
+Educational / Communication / Entertainment / Productivity /News
+
+Differences Between Web and Mobile Applications ???
+Mobile applications are specifically created to be operated from mobile. In contrast, web applications are created with the purpose of the content and services being browsed by the user from any device via browsers.
+Mobile applications need to be installed from the app store, while web applications can be easily viewed from any browser and thus do not need to be installed.
+Mobile applications can be accessed even offline, and that’s not the case with web applications since browsers do not work without a proper internet connection.
+Mobile applications are faster to browse, while web applications may take a while to load.
+Mobile applications need to be approved by the app store. Since web applications are browsed through browsers, they need not require approval from the app store.
+Mobile applications have more sophisticated security, while web applications may not have that level of heightened security compared to mobile applications.
+Mobile apps need to be updated frequently. Web apps will take care of updates themselves.

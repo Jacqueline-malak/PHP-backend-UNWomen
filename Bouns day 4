@@ -1,0 +1,23 @@
+*********Differences Between Echo and Print in PHP
+Echo and Print commands in PHP are language constructs, with the difference that echo is used to output one or more strings, while print is used to output a single string.
+Echo doesn’t have a return value, but the print command returns 1, indicating successful execution.
+Print command in PHP can accept only one argument. In contrast, echo can accept multiple parameters.
+Print command is technically a function but used as a language construct, whereas echo is a language construct.
+
+
+
+*********The two most common HTTP methods are: GET and POST.
+The GET Method
+GET is used to request data from a specified resource.
+GET requests can be cached
+GET requests remain in the browser history
+GET requests can be bookmarked
+GET requests should never be used when dealing with sensitive data
+GET requests have length restrictions
+GET requests are only used to request data (not modify)
+
+POST is used to send data to a server to create/update a resource.
+POST requests are never cached
+POST requests do not remain in the browser history
+POST requests cannot be bookmarked
+POST requests have no restrictions on data length
